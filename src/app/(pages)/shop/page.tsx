@@ -1,5 +1,6 @@
 import Footer from '@/components/home/footer'
 import HeaderW from '@/components/home/headerW'
+import FirstHero from '@/components/shop/firstHero'
 import React, { Fragment } from 'react'
 
 function Shop() {
@@ -8,6 +9,7 @@ function Shop() {
 
       <HeaderW></HeaderW>
       
+      <FirstHero/>
 
       <Footer></Footer>
     </Fragment>
