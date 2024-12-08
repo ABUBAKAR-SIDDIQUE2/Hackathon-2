@@ -1,9 +1,9 @@
 import React from 'react'
 
-function page() {
+function About() {
   return (
     <div>hi</div>
   )
 }
 
-export default page
+export default About
